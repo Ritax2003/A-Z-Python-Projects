@@ -71,6 +71,7 @@ This repository is Hacktoberfest-friendly! Here's how you can participate:
 
 ## Related Hacktoberfest Projects
 
+- [Everything-is-Free](https://github.com/Techiral/Everything-is-Free)
 - [STAR](https://github.com/Techiral/STAR)
 - [AI-OctoFusion](https://github.com/Techiral/AI-OctoFusion)
 
